@@ -1,6 +1,7 @@
-# Calculadora
+# App Calculadora
 
-App Calcuradora!
+App Calculadora com as principais operações (soma, subtração, multiplicação e divisão)!
+
 ![image](https://user-images.githubusercontent.com/93789218/173672498-b37aeae0-0b62-449b-bf9a-157934ab6916.png)
 
 ## Conhecimentos 
